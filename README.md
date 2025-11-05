@@ -18,5 +18,5 @@ Here's our todo:
 
 -\[x] Fix this typo
 
--\[ ] Add another item to the list
+-\[x] Add another item to the list
 
