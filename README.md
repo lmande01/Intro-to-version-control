@@ -16,5 +16,5 @@ Here's our todo:
 
 -\[x] Make our first commit
 
--\[ ] Fix this typo
+-\[x] Fix this typo
 
