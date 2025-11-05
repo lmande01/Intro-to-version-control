@@ -3,6 +3,7 @@
 ```
 bread
 cucumber
+cheese
 bread
 ```
 
