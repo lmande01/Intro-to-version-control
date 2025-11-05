@@ -20,5 +20,5 @@ Here's our todo:
 
 -\[x] Add another item to the list
 
--\[ ] Add an item to try push feature
+-\[x] Add an item to try push feature
 
